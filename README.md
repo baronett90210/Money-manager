@@ -19,7 +19,7 @@ The left bar plot visualizes expenses by categories in a given month selected in
 
 There is an $\bf{option\ to\ modify\ the\ data\ manually}$ in case of an incorrect input. Press Display data button and you will see the whole table which you may edit. Upon closing the table, the app asks you if you want to save the modified data. 
 
-![image](https://github.com/baronett90210/Money-manager/assets/136889949/0a6ae393-330d-4782-bfd9-01d5c4024190)
+<img src = "https://github.com/baronett90210/Money-manager/assets/136889949/0a6ae393-330d-4782-bfd9-01d5c4024190" width="800" height="450">
 
 
-Note that I have included an $\bf{option to use spending.csv file on Google Drive}$ which gives an oppotrunity to add the expenses by multiple users. However, for that you need to set up the Drive to get client_secrets.json. If there is an interest I will post the instructions.
+<img src = "https://github.com/baronett90210/Money-manager/assets/136889949/e8a57ef3-def2-4cbc-8280-f6f90aea26d1" width="40" height="40">  I have included an $\bf{option\ to\ use\ spending.csv\ file\ on\ Google Drive}$ which gives an oppotrunity to add the expenses by multiple users. However, for that you need to set up the Drive to get client_secrets.json. If there is an interest I will post the instructions.
